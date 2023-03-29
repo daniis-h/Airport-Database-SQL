@@ -1,7 +1,5 @@
 Project Details:
-This is a database assignment for a corporation that sells and maintains airplanes. The project
-contains a SQL script that creates a database and tables, and populates them with sample data. 
-It also includes several SQL queries that can be used to retrieve information from the database.
+This is a database assignment for an airport  that manages airplanes details and employes record. The project contains a SQL script that creates a database and tables, and populates them with sample data. It also includes several SQL queries that can be used to retrieve information from the database.
 
 
 Get started with the project:
